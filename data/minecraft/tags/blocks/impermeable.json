@@ -1,12 +1,15 @@
 {
     "replace": true,
 	"values": [
+		"#minecraft:doors",
 		"#minecraft:fences",
 		"#minecraft:fence_gates",
 		"#minecraft:glass",
 		"#minecraft:glass_panes",
 		"#minecraft:trapdoors",
 		"#minecraft:walls",
+		"minecraft:bell",
+		"minecraft:end_rod",
 		"minecraft:grindstone",
 		"minecraft:ice",
 		"minecraft:iron_bars",
