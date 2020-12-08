@@ -1,0 +1,12 @@
+{
+    "replace": true,
+    "values": [
+		"#minecraft:carpets",
+		"#minecraft:rails",
+		"#minecraft:trapdoors",
+		"minecraft:comparator",
+		"minecraft:powder_snow",
+		"minecraft:repeater",
+		"minecraft:snow"
+    ]
+}
