@@ -4,6 +4,7 @@
     "#minecraft:glass",
     "#minecraft:glass_panes",
     "#minecraft:vitreous",
-	"minecraft:conduit"
+	"minecraft:conduit",
+	"minecraft:lever"
   ]
 }
