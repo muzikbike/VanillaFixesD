@@ -7,6 +7,8 @@ This data pack fixes the following vanilla issues with tags:
 * https://bugs.mojang.com/browse/MC-165218 - Several blocks which should logically be immune to the ender dragon are not
 * https://bugs.mojang.com/browse/MC-166290 - Water drips through blocks it shouldn't
 * https://bugs.mojang.com/browse/MC-171534 - Beacons are not mined faster by pickaxes/affected by Efficiency
+* https://bugs.mojang.com/browse/MC-179316 - (see 11992)
+* https://bugs.mojang.com/browse/MC-192719 - (see 11992)
 * https://bugs.mojang.com/browse/MC-195786 - Infested stone bricks are not part of the stone bricks tag
 * https://bugs.mojang.com/browse/MC-198022 - The wither/ender dragon can break structure voids
 * https://bugs.mojang.com/browse/MC-223831 - Despite being dirt variants, dirt paths and farmlands are not in the #dirt tag (will probably not be fixed in vanilla)
